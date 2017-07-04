@@ -8,4 +8,14 @@ jogging, standing, sitting, upstairs and downstairs. Each activity subfolder con
         # x: x-axis accelerometer values
         # y: y-axis accelerometer values
         # z: z-axis accelerometer values
+        
+#References
+For use of the wrist34 and thigh34 datasets, please cite the cfollowing paper:
+Learning Deep and Shallow Features for Human Activity Recognition
+Sani, S., Massie, S., Wiratunga, N. and Cooper, K.
+International Conference on Knowledge Science, Engineering and Management – KSEM 2017
 
+For use of the wrist50 dataset, please cite the following paper:
+knn Sampling for Personalised Human Activity Recognition
+Sani, S., Wiratunga, N., Massie, S. and Cooper, K.
+International Conference on Case-Based Reasoning – ICCBR 2017
